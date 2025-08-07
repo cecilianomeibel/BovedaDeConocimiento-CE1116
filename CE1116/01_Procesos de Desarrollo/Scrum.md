@@ -9,13 +9,13 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-
+Es un marco de trabajo basado en equipo que se utiliza para gestionar proyectos y desarrollar  productos complejos. Se caracteriza por ser iterativo e incremental, así como permitir entregas consistentes de un conjunto de funcionalidades.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
+- [[Entrevistas]] [[Filosofía ágil]]
 
 ## 💡 Personal Insight (Opcional)
 - 
